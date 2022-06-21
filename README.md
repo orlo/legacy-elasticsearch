@@ -1,11 +1,10 @@
 # Orlo ElasticSearch PHP SDK
 
-ElasticSearch PHP SDK 2.4.x with support for PHP 8.0
+ElasticSearch PHP SDK 2.4.x with support for PHP 8.0; may be of use if you have a legacy elasticsearch 1.4.x cluster (perhaps).
 
 Use at your own risk.
 
 May support different PHP variants in the future.
-
 
 
 elasticsearch-php
