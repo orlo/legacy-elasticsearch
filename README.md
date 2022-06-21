@@ -1,4 +1,4 @@
-# Orlo ElasticSearch PHP
+# Orlo ElasticSearch PHP SDK
 
 ElasticSearch PHP SDK 2.4.x with support for PHP 8.0
 
