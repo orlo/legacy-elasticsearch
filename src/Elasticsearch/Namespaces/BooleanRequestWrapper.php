@@ -16,7 +16,7 @@ use GuzzleHttp\Ring\Future\FutureArrayInterface;
  * @license  http://www.apache.org/licenses/LICENSE-2.0 Apache2
  * @link     http://elasticsearch.org
  */
-trait BooleanRequestWrapper
+abstract class BooleanRequestWrapper
 {
     /**
      * Perform Request
