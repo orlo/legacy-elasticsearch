@@ -63,6 +63,11 @@ class Client
     protected $endpoints;
 
     /**
+     * @var TasksNamespace
+     */
+    protected $tasks;
+
+    /**
      * Client constructor
      *
      * @param Transport $transport
